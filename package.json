@@ -28,7 +28,7 @@
     "test": "mocha -R spec"
   },
   "dependencies": {
-    "istanbul": "^0.4.0",
+    "istanbul": "1.1.0-alpha.1",
     "istanbul-threshold-checker": "^0.2.1",
     "lodash": "^4.0.0",
     "plugin-error": "^1.0.0",
